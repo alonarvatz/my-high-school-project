@@ -8,3 +8,5 @@ btw godot can't suport mp4 so i got creative
 note:
 
 this game requires you to now how to read hebrew
+
+and all is in GUI or control node in godot
